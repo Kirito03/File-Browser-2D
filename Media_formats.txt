@@ -1,0 +1,5 @@
+All files="*.*"
+MMedia="*.mp3;*.ogg;*.wav;*.mid;*.midi;*.ac3;*.aif;*.aifc;*.aiff;*.au;*.it;*.kar;*.mka;*.mod;*.mpa;*.ra;*.rmi;*.s3m;*.snd;*.stm;*.wma;*.xm;*.3gp;*.asf;*.avi;*.divx;*.m1v;*.m2v;*.mkv;*.mov;*.mp4;*.mpe;*.mpeg;*.mpg;*.mpv;*.ogm;*.qt;*.ram;*.rm;*.rv;*.vob;*.wm;*.wmv"
+Image="*.jpg;*.jpeg;*.gif;*.png;*.bmp"
+Text="*.txt;*.htm;*.html;*.xml;*.rtf;*.log;*.ini;*.inf"
+Executable="*.exe;*.com;*.bat"
